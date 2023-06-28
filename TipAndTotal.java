@@ -1,12 +1,7 @@
 package TipAndTotal;
 import java.util.Scanner;
 
-/*
- * Harry Challis - 111585522
- * CIS 331 Section 2
- * Assignment 1 - calculate tips
- * I have followed the JMU Honor Code
- */
+
 public class TipAndTotal {
 
     public static void main(String[] args) {
